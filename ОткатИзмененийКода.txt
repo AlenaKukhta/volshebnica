@@ -1,1 +1,3 @@
-
+print(welcome')
+print('what's up')
+print(so sore')
